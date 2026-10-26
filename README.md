@@ -2,7 +2,7 @@
 
 雲居の文庫（くもゐのふみぐら）の一作品です。著作権の保護期間が満了した刊本から起こした本文を、誰でも読み・使い・直せるように置いています。
 
-**サイトで読む：[万代和歌集（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=mandai)**（修正案の送信ができます）
+**サイトで読む：[万代和歌集（雲居の文庫（くもゐのふみぐら））](https://informanellica.com/kumoi-no-fumigura/read.html?work=mandai)**（原本の画像の表示、修正案の送信ができます）
 
 | | |
 |---|---|
@@ -12,22 +12,22 @@
 
 ## 底本
 
-- [万代和歌集１・２](https://www.digital.archives.go.jp/item/731019)（）
-- [万代和歌集３・４](https://www.digital.archives.go.jp/item/730587)（）
-- [万代和歌集５・６](https://www.digital.archives.go.jp/item/730310)（）
-- [万代和歌集７・８](https://www.digital.archives.go.jp/item/731018)（）
-- [万代和歌集９・１０](https://www.digital.archives.go.jp/item/731607)（）
-- [万代和歌集１１・１２](https://www.digital.archives.go.jp/item/731606)（）
-- [万代和歌集１３・１４](https://www.digital.archives.go.jp/item/730436)（）
-- [万代和歌集１５・１６](https://www.digital.archives.go.jp/item/730717)（）
-- [万代和歌集１７・１８](https://www.digital.archives.go.jp/item/731609)（）
-- [万代和歌集１９・２０](https://www.digital.archives.go.jp/item/731612)（）
+- [万代和歌集１・２](https://www.digital.archives.go.jp/item/731019)（国立公文書館）
+- [万代和歌集３・４](https://www.digital.archives.go.jp/item/730587)（国立公文書館）
+- [万代和歌集５・６](https://www.digital.archives.go.jp/item/730310)（国立公文書館）
+- [万代和歌集７・８](https://www.digital.archives.go.jp/item/731018)（国立公文書館）
+- [万代和歌集９・１０](https://www.digital.archives.go.jp/item/731607)（国立公文書館）
+- [万代和歌集１１・１２](https://www.digital.archives.go.jp/item/731606)（国立公文書館）
+- [万代和歌集１３・１４](https://www.digital.archives.go.jp/item/730436)（国立公文書館）
+- [万代和歌集１５・１６](https://www.digital.archives.go.jp/item/730717)（国立公文書館）
+- [万代和歌集１７・１８](https://www.digital.archives.go.jp/item/731609)（国立公文書館）
+- [万代和歌集１９・２０](https://www.digital.archives.go.jp/item/731612)（国立公文書館）
 
-底本は上の URL のテキストです。
+国立公文書館の公開画像です（画像の出典: 国立公文書館）。
 
 ## 本文の作り方
 
-人が入力・校正したテキスト（パブリックドメイン）を取り込み、プログラムで歌ごと（詞書・作者・左注を分けて）に段落に分けました。振り仮名は本文から外し、JSON の ruby に残しています。それ以外は手を加えていません。
+国立公文書館の公開画像を、国立国会図書館の NDL古典籍OCR-Lite でテキスト化し、プログラムで歌ごと（詞書・作者・左注を分けて）に段落に分けました。版本の崩し字の OCR なので、誤りが多く残っています（校正前）。版本の頭の書き入れ（ほかの集に入っていることを示す注）は、出典・注として分けています。
 
 ## ファイル
 
