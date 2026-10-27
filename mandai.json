@@ -5,7 +5,12 @@
  "yomi": "まんだいわかしゅう",
  "category": "私撰集",
  "kind": "kashu",
- "description": null,
+ "description": {
+  "kind": "私撰集",
+  "era": "宝治2年（1248）頃",
+  "author": "未詳（藤原光俊の説がある）",
+  "desc": "勅撰集に漏れた歌を中心に、約三千八百首を部立に分けて集めた私撰集。"
+ },
  "editions": [
   {
    "pid": "nao-731019",
